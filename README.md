@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
 <div align="center">
-  <img src="assets/buricare_logo.png" alt="BuriCare Logo" width="120" height="120">
+  <img src="assets/logo.png" alt="BuriCare Logo" width="120" height="120">
   
   # BuriCare Mobile App
   
