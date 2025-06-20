@@ -1,0 +1,80 @@
+# ------------------
+# Flutter / Dart
+# ------------------
+# Flutter/Dart/Pub
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/.pub-cache/
+flutter_export_environment.sh
+
+# IDEs and editors
+**/.idea/
+**/.vscode/
+**/*.iml
+
+# macOS
+.DS_Store
+
+# Android
+**/android/app/debug.keystore
+**/android/.gradle/
+**/android/app/src/debug/
+
+# Xcode
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Pods/
+**/ios/Runner.xcworkspace/
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/ios/Podfile.lock
+**/ios/Podfile
+
+# Build outputs
+**/build/
+**/ios/Flutter/Flutter.framework
+**/ios/.symlinks/
+**/android/.gradle/
+**/android/app/build/
+
+# Logs
+**/logs/
+*.log
+
+# ------------------
+# Python
+# ------------------
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.envrc
+.venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDEs
+.vscode/
+.idea/
+
+# Colab-specific (if any)
+*.ipynb
+
+# Misc
+*.sqlite3
